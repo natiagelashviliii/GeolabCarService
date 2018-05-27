@@ -1,0 +1,17 @@
+@font-face {
+    font-family: regular;
+    src: url(../fonts/bpgArial.woff);
+}
+@font-face {
+    font-family: caps;
+    src: url(../fonts/excelsiorCaps.woff);
+}
+*{
+    font-family: regular;
+}
+a{
+    text-decoration: none;
+}
+a.active{
+    color: black;
+}
